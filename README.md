@@ -1,0 +1,2 @@
+# GetSkipLink
+Safelink
